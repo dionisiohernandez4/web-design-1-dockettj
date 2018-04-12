@@ -8,4 +8,4 @@ Use the skills you learned from the *Resources 1.1* folder and lecture 1.1 to cr
 Copy your webpage from *Web Design 1.1* to the *Web Design 1.2* assignment folder. Use the skills you learned from the *Resources 1.2* folder and lecture 1.2 to improve your resume website. Create another web page and link to it from your main web page. The two pages should be linked together and have a table and at least one image added to one of them.
 
 ### Web Design 1-3
-Create a basic web site (multiple web pages linked together) for the *code dojo*. The site should have images, basic colors, headlines, tables, paragraphs, and lists in a coherent layout.
+Use the skills you learned from the *Resources 1.3*  and lecture 1.3 to create a basic web site (multiple web pages linked together) for a new coffee shop named *Brewed Awakening*. The website should have images, basic colors, headlines, tables, paragraphs, and lists in a coherent layout.
