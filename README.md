@@ -1,5 +1,5 @@
 # Web Design 1
-Clone this repo to your computer and complete the tasks in this repo as Mr. Docket instructs you to. If you missed, [this guide](https://github.com/BAISD-CC/web-design-2-dockettj) will help you to create your github pages account.
+Clone this repo to your computer and complete the tasks in this repo as Mr. Docket instructs you to. If you missed, [this guide](https://docs.github.com/en/pages/quickstart) will help you to create your github pages account.
 
 ### Web Design 1-1
 Use the skills you learned from the *Resources 1.1* folder and lecture 1.1 to create a basic webpage (.html file) version of your resume and place it in your github pages in a folder called "1-1." You should have headlines, lists, and paragraphs formatted neatly into a simple page.
